@@ -1,6 +1,6 @@
 {
-    "version": "3.1.0",
-    "changelog": "Version initiale du système de mise à jour automatique.\n- Onglet Mises à jour dans Paramètres\n- Vérification et installation depuis l'espace vendeur",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.1.0/photostand-3.1.0.zip",
-    "min_version": "3.0.0"
+        "version": "3.1.1",
+        "changelog": "Corrections v3.1.1 :\n- Fix emails bloques en file d'attente\n- Fix erreur PDF recapitulatif\n- Anti-doublon launcher\n- Regroupement commandes par client dans Vente\n- Suppression logs de debug",
+        "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.1.1/photostand-3.1.1.zip",
+        "min_version": "3.0.0"
 }
