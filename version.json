@@ -1,6 +1,6 @@
 {
-    "version": "3.1.3",
-    "changelog": "v3.1.3 :\n- Fix erreur permission (errno 13) lors de la mise a jour\n- Telechargement dans LOCALAPPDATA au lieu du dossier programme\n- Tous les correctifs v3.1.2 inclus",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.1.3/photostand-3.1.3.zip",
+    "version": "3.1.4",
+    "changelog": "v3.1.4 :\n- Fix erreur permission (errno 13) lors de la mise a jour\n- Telechargement dans LOCALAPPDATA au lieu du dossier programme\n- Tous les correctifs precedents inclus",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.1.4/photostand-3.1.4.zip",
     "min_version": "3.0.0"
 }
