@@ -1,6 +1,6 @@
 {
-    "version": "3.2.1",
-    "changelog": "v3.2.1 :\n- Cloudflared inclus (tunnel sans telechargement)\n- Smash SDK inclus (envoi photos retouchees)\n- Nettoyage auto pycache a la reinstallation\n- Fix mise a jour fichiers supplementaires",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.1/photostand-3.2.1.zip",
+    "version": "3.2.2",
+    "changelog": "v3.2.2 :\n- Fix formats sur place visibles sur galerie mobile\n- Fix section Securite (mot de passe connexion)\n- Cloudflared inclus dans installeur\n- Nettoyage auto pycache a la reinstallation",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.2/photostand-3.2.2.zip",
     "min_version": "3.0.0"
 }
