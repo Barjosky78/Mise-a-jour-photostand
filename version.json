@@ -1,6 +1,6 @@
 {
-    "version": "3.1.6",
-    "changelog": "v3.1.6 :\n- Fix mise a jour avec elevation automatique si dossier protege\n- Extraction dans LOCALAPPDATA avant copie\n- Tous les correctifs precedents inclus",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.1.6/photostand-3.1.6.zip",
+    "version": "3.2.0",
+    "changelog": "v3.2.0 :\n- Bouton deconnexion vendeur pour changer de compte\n- Envoi procedure acces distant par email (lien + code)\n- Fix affichage cartes commandes onglet Clients\n- Fix bouton telechargement Originaux\n- Fix affichage commandes dashboard",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.0/photostand-3.2.0.zip",
     "min_version": "3.0.0"
 }
