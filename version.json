@@ -1,6 +1,6 @@
 {
-    "version": "3.2.0",
-    "changelog": "v3.2.0 :\n- Bouton deconnexion vendeur pour changer de compte\n- Envoi procedure acces distant par email (lien + code)\n- Fix affichage cartes commandes onglet Clients\n- Fix bouton telechargement Originaux\n- Fix affichage commandes dashboard",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.0/photostand-3.2.0.zip",
+    "version": "3.2.1",
+    "changelog": "v3.2.1 :\n- Cloudflared inclus (tunnel sans telechargement)\n- Smash SDK inclus (envoi photos retouchees)\n- Nettoyage auto pycache a la reinstallation\n- Fix mise a jour fichiers supplementaires",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.1/photostand-3.2.1.zip",
     "min_version": "3.0.0"
 }
