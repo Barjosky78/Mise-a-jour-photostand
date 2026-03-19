@@ -1,6 +1,6 @@
 {
-    "version": "3.2.3",
-    "changelog": "v3.2.3 :\n- Fix auth perdue apres mise a jour (tokens persistants)\n- Fix formats sur place visibles sur galerie mobile\n- Fix section Securite (mot de passe connexion)\n- Cloudflared inclus dans installeur",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.3/photostand-3.2.3.zip",
+    "version": "3.2.4",
+    "changelog": "v3.2.4 :\n- Securite: validation tokens et codes d'acces\n- Securite: suppression credentials par defaut\n- Securite: expiration tokens renforcee\n- Fix redirection auto si port change apres mise a jour\n- Fix formats sur place visibles sur galerie mobile",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.4/photostand-3.2.4.zip",
     "min_version": "3.0.0"
 }
