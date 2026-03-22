@@ -1,6 +1,6 @@
 {
-    "version": "3.2.4",
-    "changelog": "v3.2.4 :\n- Securite: validation tokens et codes d'acces\n- Securite: suppression credentials par defaut\n- Securite: expiration tokens renforcee\n- Fix redirection auto si port change apres mise a jour\n- Fix formats sur place visibles sur galerie mobile",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.2.4/photostand-3.2.4.zip",
+    "version": "3.3.1",
+    "changelog": "v3.3.1 :\n- Tarification dynamique : packs ajoutables/modifiables/supprimables\n- Sections editables avec titres personnalisables et toggle on/off\n- Logique exclusive pour les packs (comportement radio)\n- Email/telephone client affiches quand pack selectionne\n- Recalcul total fiable cote serveur (computeOrderTotal)\n- Optimisation serveur : index commandes O(1), send_file zero-copy, scandir\n- Envoi email batch robuste : connexion SMTP unique, reconnexion auto, anti rate-limit\n- Correction voyant status client avec packs\n- Prechargement : tous les coeurs CPU utilises, ETA et vitesse affiches\n- Auth bypass localhost pendant le developpement",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.3.1/photostand-3.3.1.zip",
     "min_version": "3.0.0"
 }
