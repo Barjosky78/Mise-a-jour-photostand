@@ -1,6 +1,6 @@
 {
-    "version": "3.3.1",
-    "changelog": "v3.3.1 :\n- Tarification dynamique : packs ajoutables/modifiables/supprimables\n- Sections editables avec titres personnalisables et toggle on/off\n- Logique exclusive pour les packs (comportement radio)\n- Email/telephone client affiches quand pack selectionne\n- Recalcul total fiable cote serveur (computeOrderTotal)\n- Optimisation serveur : index commandes O(1), send_file zero-copy, scandir\n- Envoi email batch robuste : connexion SMTP unique, reconnexion auto, anti rate-limit\n- Correction voyant status client avec packs\n- Prechargement : tous les coeurs CPU utilises, ETA et vitesse affiches\n- Auth bypass localhost pendant le developpement",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.3.1/photostand-3.3.1.zip",
+    "version": "3.3.2",
+    "changelog": "v3.3.2 :\n- Fix prechargement : plus de scan disque pendant la generation (barre qui restait a 0%)\n- Cache status endpoint optimise (cache 3s hors prechargement)",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.3.2/photostand-3.3.2.zip",
     "min_version": "3.0.0"
 }
