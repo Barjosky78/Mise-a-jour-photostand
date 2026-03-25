@@ -1,6 +1,6 @@
 {
-    "version": "3.3.2",
-    "changelog": "v3.3.2 :\n- Fix prechargement : plus de scan disque pendant la generation (barre qui restait a 0%)\n- Cache status endpoint optimise (cache 3s hors prechargement)",
-    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.3.2/photostand-3.3.2.zip",
+    "version": "3.3.3",
+    "changelog": "v3.3.3 :\n- Optimisation prechargement : draft() JPEG, BILINEAR, zero copie memoire (2x plus rapide)\n- Fix crash prechargement sur portable (try/finally garanti)\n- Fix barre de progression qui retombait a 0%\n- Smash : liens 30 jours (plan pro)\n- Pare-feu : ports 5080/8080 ouverts pour acces tablette",
+    "download_url": "https://github.com/Barjosky78/Mise-a-jour-photostand/releases/download/v3.3.3/photostand-3.3.3.zip",
     "min_version": "3.0.0"
 }
